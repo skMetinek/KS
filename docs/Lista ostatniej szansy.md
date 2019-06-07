@@ -45,7 +45,7 @@
 | 2019-03-06 | Kate_Rivera | [kejtka](https://mrucznik-rp.pl/user/6644-kejtka/) | Ciągłe łamanie LKiZ | 6 miesięcy | [WNIOSEK](https://mrucznik-rp.pl/topic/16199-wnioski-do-komisji-sprawiedliwo%C5%9Bci/page-34?p=856099#entry856099) |
 | 2019-03-06 | Lillie_Tisdall | - | Ciągłe łamanie LKiZ | 6 miesiący | [WNIOSEK](https://mrucznik-rp.pl/topic/16199-wnioski-do-komisji-sprawiedliwo%C5%9Bci/page-34?p=856099#entry856099) |
 | 2019-03-06 | Santina_Delgado | [H e y](https://mrucznik-rp.pl/user/4336-h-e-y/) | Ciągłe łamanie LKiZ | 6 miesięcy | [WNIOSEK](https://mrucznik-rp.pl/topic/16199-wnioski-do-komisji-sprawiedliwo%C5%9Bci/page-34?p=856099#entry856099) |
-| 2019-03-06 | Duane_Zentoven | [plazowicz](https://mrucznik-rp.pl/user/7600-plazowicz/) | Ciągłe łamanie LKiZ | 6 miesięcy | [WNIOSEK](https://mrucznik-rp.pl/topic/16199-wnioski-do-komisji-sprawiedliwo%C5%9Bci/page-34?p=856099#entry856099) |
+| 2019-03-06 | Duane_Zeytoven | [plazowicz](https://mrucznik-rp.pl/user/7600-plazowicz/) | Ciągłe łamanie LKiZ | 6 miesięcy | [WNIOSEK](https://mrucznik-rp.pl/topic/16199-wnioski-do-komisji-sprawiedliwo%C5%9Bci/page-34?p=856099#entry856099) |
 | 2019-03-06 | Javier_Gimenez | [pwk444](https://mrucznik-rp.pl/user/17358-pwk444/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/14700) |
 | 2019-03-06 | Lorenzo_Patterson | [francis](https://mrucznik-rp.pl/user/9841-francis/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/14593) |
 | 2019-03-06 | Hikari_Tran | [C R P](https://mrucznik-rp.pl/user/14078-c-r-p/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/14629) |
