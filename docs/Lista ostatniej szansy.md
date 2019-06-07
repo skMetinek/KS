@@ -51,6 +51,6 @@
 | 2019-03-06 | Hikari_Tran | [C R P](https://mrucznik-rp.pl/user/14078-c-r-p/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/14629) |
 | 2019-03-06 | Guy_Trabl | [Qers](https://mrucznik-rp.pl/user/17826-qers/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/14784) |
 | 2019-03-06 | Hatim_Matoga | [lil matoga](https://mrucznik-rp.pl/user/13854-lil-matoga/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/14867) |
-| 2019-03-06 | Aki_Nakamura | [Abrav sprawiedliwy](https://mrucznik-rp.pl/user/572-abrav-sprawiedliwy/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/14921) |
+| 2019-03-06 | James_Pagotto | [Abrav sprawiedliwy](https://mrucznik-rp.pl/user/572-abrav-sprawiedliwy/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/14921) |
 | 2019-03-06 | Kendall_Gomes | [Casella](https://mrucznik-rp.pl/user/9605-casella/) | Kradzież sejfu | 12 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/14989) |
 | 2019-03-06 | Michael_Poovey | [Magiqs](https://mrucznik-rp.pl/user/1465-magiqs/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/15130) |
