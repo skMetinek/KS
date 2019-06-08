@@ -33,7 +33,6 @@
 | 2018-08-03 | Andre_Gonzales | [Plejter](https://mrucznik-rp.pl/user/15886-plejter/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/karta/12575) |
 | 2018-10-22 | Timothy_Hawkins | [res2cue](https://mrucznik-rp.pl/user/14346-res2cue/) | BE | - | [APELACJA](https://mrucznik-rp.pl/apelacje/11673) |
 | 2018-10-22 | Patrick_Migle | [migiell](https://mrucznik-rp.pl/user/13646-migiell/) | ciągłe łamanie LKiZ | - | - |
-| 2018-10-22 | Johnny_Black | [Szczerbatek_321](https://mrucznik-rp.pl/user/15913-szczerbatek-321/) | ciągłe łamanie LKiZ | - | - |
 | 2018-10-29 | Scarlett_Simmons | [NexeN](https://mrucznik-rp.pl/user/15469-nexen/) | BE | - | [APELACJA](https://mrucznik-rp.pl/apelacje/13860) |
 | 2019-03-06 | Blease_Giveminer | [Ziomeczek1232](https://mrucznik-rp.pl/user/18660-ziomeczek1232/) | Oszustwo OOC | - | [APELACJA](https://mrucznik-rp.pl/apelacje/13941) |
 | 2019-03-06 | Laetitia_Colombo | [skHolakowa](https://mrucznik-rp.pl/user/10380-skholakowa/) | Oszustwo w stracie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/14041) |
@@ -54,3 +53,21 @@
 | 2019-03-06 | James_Pagotto | [Abrav sprawiedliwy](https://mrucznik-rp.pl/user/572-abrav-sprawiedliwy/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/14921) |
 | 2019-03-06 | Kendall_Gomes | [Casella](https://mrucznik-rp.pl/user/9605-casella/) | Kradzież sejfu | 12 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/14989) |
 | 2019-03-06 | Michael_Poovey | [Magiqs](https://mrucznik-rp.pl/user/1465-magiqs/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/15130) |
+| 2019-06-08 | Lewis_Shane | [młody okrutnik](https://mrucznik-rp.pl/user/15960-m%C5%82ody-okrutnik/) | Próba sprzedaży majątku i liczne BE | - | [APELACJA](https://mrucznik-rp.pl/apelacje/15127) |
+| 2019-06-08 | Stanislaw_Szkodnik | [Stanek](https://mrucznik-rp.pl/user/10032-stanek/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/15327) |
+| 2019-06-08 | Mikolai_Maciaszek | [miszor](https://mrucznik-rp.pl/user/6835-miszor/) | Ciągłe łamanie LKiZ | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16270) |
+| 2019-06-08 | John_McTravis | [michal kozak](https://mrucznik-rp.pl/user/10957-michal-kozak/) | Liczne BE | - | [APELACJA](https://mrucznik-rp.pl/apelacje/karta/15390) |
+| 2019-06-08 | Sebastian_Castellano | [DawidXXL](https://mrucznik-rp.pl/user/12645-dawidxxl/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/15500) |
+| 2019-06-08 | Max_Cole | [Straszny Max Cole](https://mrucznik-rp.pl/user/9390-straszny-max-cole/) | Czitowanie i Ekstremalny DM | - | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/15565) |
+| 2019-06-08 | Tommy_Black | [ZATRUTY](https://mrucznik-rp.pl/user/15589-zatruty/) | BE | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/15588) |
+| 2019-06-08 | Nicolle_Shapiro | [Lalunia](https://mrucznik-rp.pl/user/17261-lalunia/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/15675) |
+| 2019-06-08 | Jeffrey_McKean | [rappa](https://mrucznik-rp.pl/user/16099-rappa/) | Ciągłe łamanie LKiZ | - | [WNIOSEK](https://mrucznik-rp.pl/topic/16199-wnioski-do-komisji-sprawiedliwo%C5%9Bci/page-38?p=902338#entry902338) |
+| 2019-06-08 | Paulo_Lawson | [Sq0liX](https://mrucznik-rp.pl/user/13994-sq0lix/) | Czitowanie i BE | - | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/15981) |
+| 2019-06-08 | Yuki_Bushido | [Shakeer](https://mrucznik-rp.pl/user/8563-shakeer/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16000) |
+| 2019-06-08 | Neal_Schultz | [skT1](https://mrucznik-rp.pl/user/18439-skt1/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/15992) |
+| 2019-06-08 | Edek_Kluch | [123](https://mrucznik-rp.pl/user/9238-123/) | Liczne BE | - | [WNIOSEK](https://mrucznik-rp.pl/topic/16199-wnioski-do-komisji-sprawiedliwo%C5%9Bci/page-38?p=908718#entry908718) |
+| 2019-06-08 | Patrick_Daily | [NLE VEIS](https://mrucznik-rp.pl/user/15403-nle-veis/) | BE | 4 miesiące | [WNIOSEK](https://mrucznik-rp.pl/topic/16199-wnioski-do-komisji-sprawiedliwo%C5%9Bci/page-39?p=913416#entry913416) |
+| 2019-06-08 | Kuba_Rondo_Morashi | [HeySoRondo](https://mrucznik-rp.pl/user/1858-heysorondo/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16232) |
+| 2019-06-08 | Mateo_Salazar | [MisterBoy](https://mrucznik-rp.pl/user/19904-misterboy/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16269) |
+| 2019-06-08 | Borys_Lyubochka | [Volksdeutsch](https://mrucznik-rp.pl/user/6755-volksdeutsch/) | Szkodzenie serwerowi i BE | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/16211) |
+| 2019-06-08 | Garry_DeLost | [Logan5](https://mrucznik-rp.pl/user/4744-logan5/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/16278) |
