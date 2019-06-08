@@ -21,7 +21,7 @@
 | 2018-08-01 | Scott_Avanger |  [duck1one](https://mrucznik-rp.pl/user/16005-duck1one/) | Przeniesiony z listy bez UB | - | [APELACJA](https://mrucznik-rp.pl/apelacje/10159) |
 | 2018-08-01 | Ayano_Hatake | [Wikusia2234512](https://mrucznik-rp.pl/user/14066-wikusia2234512/) | Oszustwo OOC | - | [APELACJA](https://mrucznik-rp.pl/apelacje/8166) |
 | 2018-08-01 | Dave_Norton | [NOrtn](https://mrucznik-rp.pl/user/11045-nortn/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/8403) |
-| 2018-08-01 | Garett_Anderson | - | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/9756) |
+| 2018-08-01 | Garett_Anderson | [Hamilton](https://mrucznik-rp.pl/user/4391-hamilton/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/9756) |
 | 2018-08-01 | Nadia_Smitch | [Frizolek](https://mrucznik-rp.pl/user/13802-frizolek/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/10044) |
 | 2018-08-01 | Connan_Anaffan | [rurka21](https://mrucznik-rp.pl/user/15392-rurka21/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/10440) |
 | 2018-08-01 | Dariusz_Wyczesany | [nedziak](https://mrucznik-rp.pl/user/13000-nedziak/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/10663) |
