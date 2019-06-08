@@ -66,7 +66,7 @@
 | 2019-06-08 | Yuki_Bushido | [Shakeer](https://mrucznik-rp.pl/user/8563-shakeer/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16000) |
 | 2019-06-08 | Neal_Schultz | [skT1](https://mrucznik-rp.pl/user/18439-skt1/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/15992) |
 | 2019-06-08 | Edek_Kluch | [123](https://mrucznik-rp.pl/user/9238-123/) | Liczne BE | - | [WNIOSEK](https://mrucznik-rp.pl/topic/16199-wnioski-do-komisji-sprawiedliwo%C5%9Bci/page-38?p=908718#entry908718) |
-| 2019-06-08 | Patrick_Daily | |[NLE VEIS](https://mrucznik-rp.pl/user/15403-nle-veis/) | BE | 4 miesiące | [WNIOSEK](https://mrucznik-rp.pl/topic/16199-wnioski-do-komisji-sprawiedliwo%C5%9Bci/page-39?p=913416#entry913416) |
+| 2019-06-08 | Patrick_Daily | [NLE VEIS](https://mrucznik-rp.pl/user/15403-nle-veis/) | BE | 4 miesiące | [WNIOSEK](https://mrucznik-rp.pl/topic/16199-wnioski-do-komisji-sprawiedliwo%C5%9Bci/page-39?p=913416#entry913416) |
 | 2019-06-08 | Kuba_Rondo_Morashi | [HeySoRondo](https://mrucznik-rp.pl/user/1858-heysorondo/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16232) |
 | 2019-06-08 | Mateo_Salazar | [MisterBoy](https://mrucznik-rp.pl/user/19904-misterboy/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16269) |
 | 2019-06-08 | Borys_Lyubochka | [Volksdeutsch](https://mrucznik-rp.pl/user/6755-volksdeutsch/) | Szkodzenie serwerowi i BE | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/16211) |
