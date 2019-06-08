@@ -43,7 +43,7 @@
 | 2019-03-06 | Luis_Honde | [Agent Tomek](https://mrucznik-rp.pl/user/17463-agent-tomek/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/14631) |
 | 2019-03-06 | Dwayne_Burney | [czarnuch_dwayne](https://mrucznik-rp.pl/user/18723-czarnuch-dwayne/) | Ciągłe łamanie LKiZ | 6 miesiący | [WNIOSEK](https://mrucznik-rp.pl/topic/16199-wnioski-do-komisji-sprawiedliwo%C5%9Bci/page-34?p=856099#entry856099) |
 | 2019-03-06 | Kate_Rivera | [kejtka](https://mrucznik-rp.pl/user/6644-kejtka/) | Ciągłe łamanie LKiZ | 6 miesięcy | [WNIOSEK](https://mrucznik-rp.pl/topic/16199-wnioski-do-komisji-sprawiedliwo%C5%9Bci/page-34?p=856099#entry856099) |
-| 2019-03-06 | Lillie_Tisdall | - | Ciągłe łamanie LKiZ | 6 miesiący | [WNIOSEK](https://mrucznik-rp.pl/topic/16199-wnioski-do-komisji-sprawiedliwo%C5%9Bci/page-34?p=856099#entry856099) |
+| 2019-03-06 | Lillie_Tisdall | [dras](https://mrucznik-rp.pl/user/19430-dras/) | Ciągłe łamanie LKiZ | 6 miesiący | [WNIOSEK](https://mrucznik-rp.pl/topic/16199-wnioski-do-komisji-sprawiedliwo%C5%9Bci/page-34?p=856099#entry856099) |
 | 2019-03-06 | Santina_Delgado | [H e y](https://mrucznik-rp.pl/user/4336-h-e-y/) | Ciągłe łamanie LKiZ | 6 miesięcy | [WNIOSEK](https://mrucznik-rp.pl/topic/16199-wnioski-do-komisji-sprawiedliwo%C5%9Bci/page-34?p=856099#entry856099) |
 | 2019-03-06 | Duane_Zeytoven | [plazowicz](https://mrucznik-rp.pl/user/7600-plazowicz/) | Ciągłe łamanie LKiZ | 6 miesięcy | [WNIOSEK](https://mrucznik-rp.pl/topic/16199-wnioski-do-komisji-sprawiedliwo%C5%9Bci/page-34?p=856099#entry856099) |
 | 2019-03-06 | Javier_Gimenez | [pwk444](https://mrucznik-rp.pl/user/17358-pwk444/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/14700) |
