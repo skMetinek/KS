@@ -18,3 +18,4 @@ Osoby z listy ostatniej szansy przy otrzymaniu bana z tym samym powodem (lub dow
 | 2019-05-06 | Sasha_Juvczenko/Norbert_Liszka/Janusz_Kruszwil/Ivan_Juvczenko | [Punisher007](https://mrucznik-rp.pl/user/17045-punisher007/) |
 | 2019-05-06 | Pascual_Grande | [Paskal](https://mrucznik-rp.pl/user/13586-paskal/) |
 | 2019-05-07 | Seiko_Hanari | [011](https://mrucznik-rp.pl/user/8216-011/) |
+| 2019-06-08 | Patrick_Migle | [migiell](https://mrucznik-rp.pl/user/13646-migiell/) |
