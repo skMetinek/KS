@@ -71,3 +71,7 @@
 | 2019-06-08 | Mateo_Salazar | [MisterBoy](https://mrucznik-rp.pl/user/19904-misterboy/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16269) |
 | 2019-06-08 | Borys_Lyubochka | [Volksdeutsch](https://mrucznik-rp.pl/user/6755-volksdeutsch/) | Szkodzenie serwerowi i BE | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/16211) |
 | 2019-06-08 | Garry_DeLost | [Logan5](https://mrucznik-rp.pl/user/4744-logan5/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/16278) |
+| 2019-02-12 | Thony_Williams | [donox](https://mrucznik-rp.pl/user/19134-donox/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/15048) |
+| 2019-06-23 | Jack_Winslet | [neq](https://mrucznik-rp.pl/user/3514-neq/) | Nagrywanie filmików z czitowania | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16397) |
+| 2019-06-23 | Xander_Shepherd | [kkcm](https://mrucznik-rp.pl/user/1726-kkcm/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/topic/76465-ks-apelacje-pisane-za-inn%C4%85-osob%C4%99/page-2?p=923344#entry923344) |
+| 2019-06-23 | Franc_Lindley | [bodzio](https://mrucznik-rp.pl/user/1346-bodzio/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/16398) |
