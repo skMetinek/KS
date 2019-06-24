@@ -33,7 +33,6 @@
 | 2018-08-03 | Andre_Gonzales | [Plejter](https://mrucznik-rp.pl/user/15886-plejter/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/karta/12575) |
 | 2018-10-22 | Timothy_Hawkins | [res2cue](https://mrucznik-rp.pl/user/14346-res2cue/) | BE | - | [APELACJA](https://mrucznik-rp.pl/apelacje/11673) |
 | 2018-10-22 | Patrick_Migle | [migiell](https://mrucznik-rp.pl/user/13646-migiell/) | ciągłe łamanie LKiZ | - | - |
-| 2018-10-29 | Scarlett_Simmons | [NexeN](https://mrucznik-rp.pl/user/15469-nexen/) | BE | - | [APELACJA](https://mrucznik-rp.pl/apelacje/13860) |
 | 2019-03-06 | Blease_Giveminer | [Ziomeczek1232](https://mrucznik-rp.pl/user/18660-ziomeczek1232/) | Oszustwo OOC | - | [APELACJA](https://mrucznik-rp.pl/apelacje/13941) |
 | 2019-03-06 | Laetitia_Colombo | [skHolakowa](https://mrucznik-rp.pl/user/10380-skholakowa/) | Oszustwo w stracie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/14041) |
 | 2019-03-06 | Paul_Brain | [skMetinek](https://mrucznik-rp.pl/user/15814-skmetinek/) | Odwalanie | 6 miesięcy | - |
@@ -77,3 +76,4 @@
 | 2019-06-23 | Franc_Lindley | [bodzio](https://mrucznik-rp.pl/user/1346-bodzio/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/16398) |
 | 2019-06-23 | Sammy_Hatosy | [Harvey](https://mrucznik-rp.pl/user/18534-harvey/) | Szkodzenie graczom - zabieranie licencji | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16437) |
 | 2019-06-23 | Krzysztof_Evans | [sora](https://mrucznik-rp.pl/user/13461-sora/) | Liczne BE, czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16443) |
+| 2019-06-24 | Franc_Lindley | [bodzio](https://mrucznik-rp.pl/user/1346-bodzio/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/16398) | 
