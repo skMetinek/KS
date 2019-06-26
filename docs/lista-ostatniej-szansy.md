@@ -73,7 +73,8 @@
 | 2019-02-12 | Thony_Williams | [donox](https://mrucznik-rp.pl/user/19134-donox/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/15048) |
 | 2019-06-23 | Jack_Winslet | [neq](https://mrucznik-rp.pl/user/3514-neq/) | Nagrywanie filmików z czitowania | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16397) |
 | 2019-06-23 | Xander_Shepherd | [kkcm](https://mrucznik-rp.pl/user/1726-kkcm/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/topic/76465-ks-apelacje-pisane-za-inn%C4%85-osob%C4%99/page-2?p=923344#entry923344) |
-| 2019-06-23 | Franc_Lindley | [bodzio](https://mrucznik-rp.pl/user/1346-bodzio/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/16398) |
 | 2019-06-23 | Sammy_Hatosy | [Harvey](https://mrucznik-rp.pl/user/18534-harvey/) | Szkodzenie graczom - zabieranie licencji | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16437) |
 | 2019-06-23 | Krzysztof_Evans | [sora](https://mrucznik-rp.pl/user/13461-sora/) | Liczne BE, czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16443) |
 | 2019-06-24 | Franc_Lindley | [bodzio](https://mrucznik-rp.pl/user/1346-bodzio/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/16398) | 
+| 2019-06-26 | Matthew_Smiting | [Taki Jeden](https://mrucznik-rp.pl/user/1063-taki-jeden/) | Sprzedaż konta | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16453) |
+| 2019-06-26 | Grzesiek_Kowalski | [Scotti](https://mrucznik-rp.pl/user/19748-scotti/) | Czitowanie + BE | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16466) |
