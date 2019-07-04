@@ -51,3 +51,6 @@ Jeśli masz podejrzenia, że osoba z tej listy gra na serwerze zgłoś to jak na
 | 2018-08-01 | Tony_Wick | [typ](https://mrucznik-rp.pl/user/15778-typ/) |
 | 2018-08-03 | Samuel_Maranzano | [pogajuras](https://mrucznik-rp.pl/user/17672-pogajuras/) |
 | 2018-08-03 | Fernando_RedTiger | [RedTiger](https://mrucznik-rp.pl/user/796-redtiger/) |
+| 2019-07-05 | John_Chesterfield | [bartek luccese](https://mrucznik-rp.pl/user/347-bartek-luccese/) |
+| 2019-07-05 | Carmelo_SunShine | [arekgejming](https://mrucznik-rp.pl/user/12042-arekgejming/) |
+
