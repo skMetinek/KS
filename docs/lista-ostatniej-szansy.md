@@ -78,3 +78,4 @@
 | 2019-06-24 | Franc_Lindley | [bodzio](https://mrucznik-rp.pl/user/1346-bodzio/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/16398) | 
 | 2019-06-26 | Matthew_Smiting | [Taki Jeden](https://mrucznik-rp.pl/user/1063-taki-jeden/) | Sprzedaż konta | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16453) |
 | 2019-06-26 | Grzesiek_Kowalski | [Scotti](https://mrucznik-rp.pl/user/19748-scotti/) | Czitowanie + BE | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16466) |
+| 2019-07-04 | Hugo_Thompson | [pwk444](https://mrucznik-rp.pl/user/17358-pwk444/) | Czitowanie + BE | - | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/16463) |
