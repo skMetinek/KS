@@ -13,6 +13,7 @@ Osoby z listy ostatniej szansy przy otrzymaniu bana z tym samym powodem (lub dow
 | 2018-08-01 | Paco_Munez | [Dawid Znakomity](https://mrucznik-rp.pl/user/7251-dawid-znakomity/) |
 | 2018-08-01 | Racoine_Wright -> Pharrell_Maisonneuve | [frachty g star](https://mrucznik-rp.pl/user/1119-frachty-g-star/) |
 | 2018-08-01 | Tytus_Ramsey | [theodor](https://mrucznik-rp.pl/user/4593-theodor/) |
+| 2018-08-01 | Tony_Wick | [typ](https://mrucznik-rp.pl/user/15778-typ/) |
 | 2018-10-10 | Lucas_Nidryt | [Kindro](https://mrucznik-rp.pl/user/14547-kindro/) |
 | 2019-05-06 | Nelly_Price | [Nataly2000](https://mrucznik-rp.pl/user/16050-nataly2000/) |
 | 2019-05-06 | Sasha_Juvczenko/Norbert_Liszka/Janusz_Kruszwil/Ivan_Juvczenko | [Punisher007](https://mrucznik-rp.pl/user/17045-punisher007/) |

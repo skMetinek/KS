@@ -42,15 +42,11 @@ Jeśli masz podejrzenia, że osoba z tej listy gra na serwerze zgłoś to jak na
 | 2016-12-30 | Rose_Collins | |
 | 2017-03-05 | Harold_Pakushevsky | [Damian](https://mrucznik-rp.pl/user/21-damian/) |
 | 2017-03-05 | Adam_Dyrektor | [Dyrektor Adam](https://mrucznik-rp.pl/user/51-hrabia-don-adamo/) |
-| 2018-08-01 | Daniel_Makowsky | [three5ixtyy](https://mrucznik-rp.pl/user/7961-three5ixtyy/) |
-| 2018-08-01 | Christopher_Hawkins | [dowellyte](https://mrucznik-rp.pl/user/2127-dowellyte/) |
-| 2018-08-01 | Leroy_Acuff -> Philip_Tolmache | [gandalf](https://mrucznik-rp.pl/user/3465-gandalf/) |
-| 2018-08-01 | Lonnie_Portis | [Oceanik](https://mrucznik-rp.pl/user/12205-oceanik/) |
-| 2018-08-01 | Paco_Munez | [Dawid Znakomity](https://mrucznik-rp.pl/user/7251-dawid-znakomity/) |
-| 2018-08-01 | Tytus_Ramsey | [theodor](https://mrucznik-rp.pl/user/4593-theodor/) |
-| 2018-08-01 | Tony_Wick | [typ](https://mrucznik-rp.pl/user/15778-typ/) |
 | 2018-08-03 | Samuel_Maranzano | [pogajuras](https://mrucznik-rp.pl/user/17672-pogajuras/) |
 | 2018-08-03 | Fernando_RedTiger | [RedTiger](https://mrucznik-rp.pl/user/796-redtiger/) |
 | 2019-07-05 | John_Chesterfield | [bartek luccese](https://mrucznik-rp.pl/user/347-bartek-luccese/) |
 | 2019-07-05 | Carmelo_SunShine | [arekgejming](https://mrucznik-rp.pl/user/12042-arekgejming/) |
+| 2019-07-15 | James_Luther | [babcia krystyna](https://mrucznik-rp.pl/user/15396-babcia-krystyna/) |
+| 2019-07-15 | Edek_Kluch | [123](https://mrucznik-rp.pl/user/9238-123/) |
+| 2019-07-15 | Michael_Swiftt | [LukeSQLY](https://mrucznik-rp.pl/user/11440-lukesqly/) |
 
