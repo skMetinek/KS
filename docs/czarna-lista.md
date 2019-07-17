@@ -11,7 +11,6 @@ Osoby z listy ostatniej szansy przy otrzymaniu bana z tym samym powodem (lub dow
 | 2018-08-01 | Leroy_Acuff -> Philip_Tolmache | [gandalf](https://mrucznik-rp.pl/user/3465-gandalf/) |
 | 2018-08-01 | Lonnie_Portis | [Oceanik](https://mrucznik-rp.pl/user/12205-oceanik/) |
 | 2018-08-01 | Paco_Munez | [Dawid Znakomity](https://mrucznik-rp.pl/user/7251-dawid-znakomity/) |
-| 2018-08-01 | Racoine_Wright -> Pharrell_Maisonneuve | [frachty g star](https://mrucznik-rp.pl/user/1119-frachty-g-star/) |
 | 2018-08-01 | Tytus_Ramsey | [theodor](https://mrucznik-rp.pl/user/4593-theodor/) |
 | 2018-08-01 | Tony_Wick | [typ](https://mrucznik-rp.pl/user/15778-typ/) |
 | 2018-10-10 | Lucas_Nidryt | [Kindro](https://mrucznik-rp.pl/user/14547-kindro/) |
