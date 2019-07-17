@@ -18,7 +18,7 @@
 | 2018-08-01 | Roger_Capazzo | [Majeranek](https://mrucznik-rp.pl/user/13138-majeranek/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/9986) |
 | 2018-08-01 | Loussandy_Edwards | [rfvcaperd](https://mrucznik-rp.pl/user/363-rfvcaperd/) | BE | - | [APELACJA](https://mrucznik-rp.pl/apelacje/10199) |
 | 2018-08-01 | Piotr_Parker | [Backedoo](https://mrucznik-rp.pl/user/10248-backedoo/) | Udostępnianie konta | - | [APELACJA](https://mrucznik-rp.pl/apelacje/10255) |
-| 2018-08-01 | Scott_Avanger |  [duck1one](https://mrucznik-rp.pl/user/16005-duck1one/) | Przeniesiony z listy bez UB | - | [APELACJA](https://mrucznik-rp.pl/apelacje/10159) |
+| 2018-08-01 | Scott_Avanger |  [duck1one](https://mrucznik-rp.pl/user/16005-duck1one/) | Przeniesiony z listy bez UB | - | [APELACJA](https://mrucznik-rp.pl/apelacje/10159) [APELACJA](https://mrucznik-rp.pl/apelacje/16512) |
 | 2018-08-01 | Ayano_Hatake | [Wikusia2234512](https://mrucznik-rp.pl/user/14066-wikusia2234512/) | Oszustwo OOC | - | [APELACJA](https://mrucznik-rp.pl/apelacje/8166) |
 | 2018-08-01 | Dave_Norton | [NOrtn](https://mrucznik-rp.pl/user/11045-nortn/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/8403) |
 | 2018-08-01 | Garett_Anderson | [Hamilton](https://mrucznik-rp.pl/user/4391-hamilton/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/9756) |
@@ -79,3 +79,4 @@
 | 2019-06-26 | Matthew_Smiting | [Taki Jeden](https://mrucznik-rp.pl/user/1063-taki-jeden/) | Sprzedaż konta | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16453) |
 | 2019-06-26 | Grzesiek_Kowalski | [Scotti](https://mrucznik-rp.pl/user/19748-scotti/) | Czitowanie + BE | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16466) |
 | 2019-07-04 | Hugo_Thompson | [pwk444](https://mrucznik-rp.pl/user/17358-pwk444/) | Czitowanie + BE | - | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/16463) |
+| 2019-07-17 | Armand_Wright | [YoungSid](https://mrucznik-rp.pl/user/19470-youngsid/) | Sprzedaż majątku | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/16516) |
