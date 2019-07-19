@@ -80,3 +80,5 @@
 | 2019-06-26 | Grzesiek_Kowalski | [Scotti](https://mrucznik-rp.pl/user/19748-scotti/) | Czitowanie + BE | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16466) |
 | 2019-07-04 | Hugo_Thompson | [pwk444](https://mrucznik-rp.pl/user/17358-pwk444/) | Czitowanie + BE | - | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/16463) |
 | 2019-07-17 | Armand_Wright | [YoungSid](https://mrucznik-rp.pl/user/19470-youngsid/) | Sprzedaż majątku | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/16516) |
+| 2019-07-19 | Cristian_Walker | [Walker](https://mrucznik-rp.pl/user/132-walker/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16542) |
+| 2019-07-19 | Jasiek_Pompka | [Kali](https://mrucznik-rp.pl/user/11368-kali/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16547) |
