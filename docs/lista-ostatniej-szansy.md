@@ -82,3 +82,4 @@
 | 2019-07-17 | Armand_Wright | [YoungSid](https://mrucznik-rp.pl/user/19470-youngsid/) | Sprzedaż majątku | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/16516) |
 | 2019-07-19 | Cristian_Walker | [Walker](https://mrucznik-rp.pl/user/132-walker/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16542) |
 | 2019-07-19 | Jasiek_Pompka | [Kali](https://mrucznik-rp.pl/user/11368-kali/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16547) |
+| 2019-07-20 | Mike_Johnson | [Ojciec_Dyrektor](https://mrucznik-rp.pl/user/650-ojciec-dyrektor/) | BE + ciągłe łamanie LKIZ | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16558) |
