@@ -83,3 +83,6 @@
 | 2019-07-19 | Cristian_Walker | [Walker](https://mrucznik-rp.pl/user/132-walker/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16542) |
 | 2019-07-19 | Jasiek_Pompka | [Kali](https://mrucznik-rp.pl/user/11368-kali/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16547) |
 | 2019-07-20 | Mike_Johnson | [Ojciec_Dyrektor](https://mrucznik-rp.pl/user/650-ojciec-dyrektor/) | BE + ciągłe łamanie LKIZ | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/16558) |
+| 2019-07-24 | Weston_Craystone | [VL3KS](https://mrucznik-rp.pl/user/893-vl3ks/) | Przelewanie majatku | - | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/16564) |
+| 2019-07-24 | Popeye_Vojtyla | [wunza popek](https://mrucznik-rp.pl/user/10299-wunza-popek/) | Ciągłe łamanie LKIZ | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16593) |
+| 2019-07-24 | Garett Hughes | [gopfert](https://mrucznik-rp.pl/user/17458-gopfert/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/topic/85286-ban-garett-hughes-gopfert/) |
