@@ -49,4 +49,5 @@ Jeśli masz podejrzenia, że osoba z tej listy gra na serwerze zgłoś to jak na
 | 2019-07-15 | James_Luther | [babcia krystyna](https://mrucznik-rp.pl/user/15396-babcia-krystyna/) |
 | 2019-07-15 | Edek_Kluch | [123](https://mrucznik-rp.pl/user/9238-123/) |
 | 2019-07-15 | Michael_Swiftt | [LukeSQLY](https://mrucznik-rp.pl/user/11440-lukesqly/) |
+| 2019-07-27 | Ross_Stonecold | [Ksenon](https://mrucznik-rp.pl/user/14795-ksenon/) |
 
