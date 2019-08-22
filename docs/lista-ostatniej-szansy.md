@@ -87,3 +87,5 @@
 | 2019-07-24 | Popeye_Vojtyla | [wunza popek](https://mrucznik-rp.pl/user/10299-wunza-popek/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16593) |
 | 2019-07-24 | Garett_Hughes | [gopfert](https://mrucznik-rp.pl/user/17458-gopfert/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/topic/85286-ban-garett-hughes-gopfert/) |
 | 2019-07-25 | Saul_Castella | [Marian3k](https://mrucznik-rp.pl/user/20075-marian3k/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/16607) |
+| 2019-08-22 | Victor_Torre | [NyggaStoleMyBike](https://mrucznik-rp.pl/user/1302-nyggastolemybike/) | BE | - | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/16741) |
+| 2019-08-22 | Jack_Mason | [Abstynent](https://mrucznik-rp.pl/user/14809-abstynent/) | BE | - | [APELACJA](https://mrucznik-rp.pl/topic/85184-ban-jack-mason-abstynent) |
