@@ -89,3 +89,5 @@
 | 2019-07-25 | Saul_Castella | [Marian3k](https://mrucznik-rp.pl/user/20075-marian3k/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/16607) |
 | 2019-08-22 | Victor_Torre | [NyggaStoleMyBike](https://mrucznik-rp.pl/user/1302-nyggastolemybike/) | BE | - | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/16741) |
 | 2019-08-22 | Jack_Mason | [Abstynent](https://mrucznik-rp.pl/user/14809-abstynent/) | BE | - | [APELACJA](https://mrucznik-rp.pl/topic/85184-ban-jack-mason-abstynent) |
+| 2019-08-24 | Jacob_Squillaci | [Mientuz](https://mrucznik-rp.pl/user/4941-mientuz/) | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16763) |
+| 2019-08-24 | James_Thorton | [Gruby65](https://mrucznik-rp.pl/user/1896-gruby65/) | Czitowanie | [APELACJA](https://mrucznik-rp.pl/apelacje/16789) |
