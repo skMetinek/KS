@@ -91,3 +91,5 @@
 | 2019-08-22 | Jack_Mason | [Abstynent](https://mrucznik-rp.pl/user/14809-abstynent/) | BE | - | [APELACJA](https://mrucznik-rp.pl/topic/85184-ban-jack-mason-abstynent) |
 | 2019-08-24 | Jacob_Squillaci | [Mientuz](https://mrucznik-rp.pl/user/4941-mientuz/) | - | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/16763) |
 | 2019-08-24 | James_Thorton | [Gruby65](https://mrucznik-rp.pl/user/1896-gruby65/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/16789) |
+| 2019-08-26 | Sean_Greene | [Acodin](https://mrucznik-rp.pl/user/9355-acodin/) | Nagminne łamanie LKiZ | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/16804) | 
+| 2019-08-26 | Michael_Dos_Santos | [Michu1857](https://mrucznik-rp.pl/user/941-michu1857/) | Nagminne łamanie LKiZ | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/16799) |
