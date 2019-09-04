@@ -93,3 +93,4 @@
 | 2019-08-24 | James_Thorton | [Gruby65](https://mrucznik-rp.pl/user/1896-gruby65/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/16789) |
 | 2019-08-26 | Sean_Greene | [Acodin](https://mrucznik-rp.pl/user/9355-acodin/) | Nagminne łamanie LKiZ | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/16804) | 
 | 2019-08-26 | Michael_Dos_Santos | [Michu1857](https://mrucznik-rp.pl/user/941-michu1857/) | Nagminne łamanie LKiZ | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/16799) |
+| 2019-09-04 | Sophie_Diaz | [Perfidny](https://mrucznik-rp.pl/user/17662-perfidny/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16843) |
