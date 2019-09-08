@@ -22,3 +22,4 @@ Osoby z listy ostatniej szansy przy otrzymaniu bana z tym samym powodem (lub dow
 | 2019-06-27 | Jack_Winslet | [neq](https://mrucznik-rp.pl/user/3514-neq/) |
 | 2019-07-24 | Mikolai_Maciaszek | [miszor](https://mrucznik-rp.pl/user/6835-miszor/) |
 | 2019-08-08 | Lewis_Shane | [młody okrutnik](https://mrucznik-rp.pl/user/15960-m%C5%82ody-okrutnik/) | 
+| 2019-09-01 | Paul_Brain/Witold_Mopsak/Artyom_Kurylowitz/Tom_Betoniarka | [rapppa](https://mrucznik-rp.pl/user/15814-rapppa/) |
