@@ -85,3 +85,4 @@
 | 2019-09-04 | Sophie_Diaz | [Perfidny](https://mrucznik-rp.pl/user/17662-perfidny/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16843) |
 | 2019-09-11 | Matthew_Salvatore | [Remover^](https://mrucznik-rp.pl/user/8387-remover/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16918) |
 | 2019-09-11 | Krzysztof_Corleone | [dras](https://mrucznik-rp.pl/user/19430-dras/) | BE | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/16930) |
+| 2019-09-15 | Franc_Mckain | [BL3CK8](https://mrucznik-rp.pl/user/14549-bl3ck8/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/16833) | 
