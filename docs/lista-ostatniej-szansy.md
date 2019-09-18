@@ -86,3 +86,5 @@
 | 2019-09-11 | Matthew_Salvatore | [Remover^](https://mrucznik-rp.pl/user/8387-remover/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16918) |
 | 2019-09-11 | Krzysztof_Corleone | [dras](https://mrucznik-rp.pl/user/19430-dras/) | BE | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/16930) |
 | 2019-09-15 | Franc_Mckain | [BL3CK8](https://mrucznik-rp.pl/user/14549-bl3ck8/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/16833) | 
+| 2019-09-18 | Gustavo_Black | [Sparky](https://mrucznik-rp.pl/user/21710-sparky/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/16956) |
+| 2019-09-18 | Matthew_McQueen | [SaNeK](https://mrucznik-rp.pl/user/17759-sanek/) | BE | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16959) |
