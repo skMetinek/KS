@@ -21,7 +21,7 @@ Jeśli masz podejrzenia, że osoba z tej listy gra na serwerze zgłoś to jak na
 | 2015-01-01 | Raffaello_Villano > Carolina_Villano / Artur_Wiepszur | |
 | 2015-01-01 | Jason_Beasley | KUB??? |
 | 2015-01-01 | Anthony_Cavani | Qqster |
-| 2015-01-01 | Joel_Woolsey | yarass |
+| 2015-01-01 | Joel_Woolsey | yarass/pochwiakoks/Jarek Wróbel |
 | 2015-01-01 | Jose_Moya | [bonus rpk](https://mrucznik-rp.pl/user/19335-bonusrpk/) |
 | 2015-01-01 | Travis_Wayne | JimmyDeusAsylum |
 | 2015-04-14 | Alexander_Monrose | Paul21122 |
