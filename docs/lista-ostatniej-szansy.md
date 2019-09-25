@@ -88,4 +88,4 @@
 | 2019-09-15 | Franc_Mckain | [BL3CK8](https://mrucznik-rp.pl/user/14549-bl3ck8/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/16833) | 
 | 2019-09-18 | Gustavo_Black | [Sparky](https://mrucznik-rp.pl/user/21710-sparky/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/16956) |
 | 2019-09-18 | Matthew_McQueen | [SaNeK](https://mrucznik-rp.pl/user/17759-sanek/) | BE | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16959) |
-| 2019-09-25 | Shin_Johnson | [Shinisko](https://mrucznik-rp.pl/user/22095-shinisko/) | Czitowanie | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/16992) |
+| 2019-09-25 | Shin_Johnson | [Shinisko](https://mrucznik-rp.pl/user/22095-shinisko/) | Czitowanie | 3 miesięcy | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/16992) |
