@@ -90,3 +90,4 @@
 | 2019-09-18 | Matthew_McQueen | [SaNeK](https://mrucznik-rp.pl/user/17759-sanek/) | BE | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16959) |
 | 2019-09-25 | Shin_Johnson | [Shinisko](https://mrucznik-rp.pl/user/22095-shinisko/) | Czitowanie | 3 miesięcy | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/16992) |
 | 2019-09-29 | Gustavo_Carbone | [CarboneG](https://mrucznik-rp.pl/user/22110-carboneg/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17018) |
+| 2019-10-03 | Emily_Fallser | [PanMielu1100](https://mrucznik-rp.pl/user/20554-panmielu1100/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17053) |
