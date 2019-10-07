@@ -92,3 +92,6 @@
 | 2019-09-29 | Gustavo_Carbone | [CarboneG](https://mrucznik-rp.pl/user/22110-carboneg/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17018) |
 | 2019-10-02 | Vanessa_Drep | [Dawciu](https://mrucznik-rp.pl/user/13478-dawciu/) | BE | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/17035) |
 | 2019-10-03 | Emily_Fallser | [PanMielu1100](https://mrucznik-rp.pl/user/20554-panmielu1100/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17053) |
+| 2019-10-07 | Michelle_Terry/Soren_Rasmussen | [aesthetic darki](https://mrucznik-rp.pl/user/21366-aesthetic-darki/) | Nagminne łamanie LKIZ | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17065) |
+| 2019-10-07 | Xander_Smith | [TWINIX](https://mrucznik-rp.pl/user/18347-twinix/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/17068) |
+| 2019-10-07 | Jessica_Savaglio | [Sovya](https://mrucznik-rp.pl/user/18524-sovya/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17071) |
