@@ -95,3 +95,4 @@
 | 2019-10-07 | Michelle_Terry/Soren_Rasmussen | [aesthetic darki](https://mrucznik-rp.pl/user/21366-aesthetic-darki/) | Nagminne łamanie LKIZ | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17065) |
 | 2019-10-07 | Xander_Smith | [TWINIX](https://mrucznik-rp.pl/user/18347-twinix/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/17068) |
 | 2019-10-07 | Jessica_Savaglio | [Sovya](https://mrucznik-rp.pl/user/18524-sovya/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17071) |
+| 2019-10-10 | Shin_Carter | [Young Policja](https://mrucznik-rp.pl/user/18579-young-policja/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17061) |
