@@ -97,3 +97,4 @@
 | 2019-10-07 | Jessica_Savaglio | [Sovya](https://mrucznik-rp.pl/user/18524-sovya/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17071) |
 | 2019-10-08 | Max_Mancini | [Nekromanta](https://mrucznik-rp.pl/user/6020-nekromanta/) | Kupno kasy | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/16927) |
 | 2019-10-10 | Shin_Carter | [Young Policja](https://mrucznik-rp.pl/user/18579-young-policja/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17061) |
+| 2019-10-16 | Xander_Vine | [_XaNDeR_](https://mrucznik-rp.pl/user/16358-xander/) | Czitowanie | Dożywotnio | [APELACJA](https://mrucznik-rp.pl/apelacje/17120) |
