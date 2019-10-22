@@ -101,4 +101,5 @@
 | 2019-10-18 | Jacek_Potas | [Potasek123](https://mrucznik-rp.pl/user/21947-potasek123/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/17107) |
 | 2019-10-22 | Hatim_Matoga | [Matoga](https://mrucznik-rp.pl/user/13854-matoga/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17129) |
 | 2019-10-22 | William_Gilles/Zbyszek_Paprotka | [Paprotka ToJa](https://mrucznik-rp.pl/user/8499-paprotka-toja/) | BE + udostępnienie danych osobowych | Dożywotnio | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/17126) |
+| 2019-10-22 | Nataly_Latte | [Nataly_Croff](https://mrucznik-rp.pl/user/20058-nataly-croff/) | Czitowanie + BE | Dożywotnia | [APELACJA](https://mrucznik-rp.pl/apelacje/17142) |
 
