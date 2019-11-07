@@ -105,3 +105,4 @@
 | 2019-10-28 | Michel_Swift | [FuBu](https://mrucznik-rp.pl/user/4161-fubu/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/17158) |
 | 2019-11-01 | Antek_Kokieszko | [bigjo](https://mrucznik-rp.pl/user/20154-bigjo/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/17187) |
 | 2019-11-03 | Miroslaw_Brudny | [brudnymirek](https://mrucznik-rp.pl/user/14040-brudnymirek/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17195) |
+| 2019-11-07 | Koji_Katahiro | [Goldszron](https://mrucznik-rp.pl/user/120-goldszron/) | Nagminne łamanie LKIZ | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17236) |
