@@ -108,4 +108,4 @@
 | 2019-11-06 | Natalka_Gucci | [obojetnosc](https://mrucznik-rp.pl/user/22021-obojetnosc/) | Nagminne łamanie LKIZ | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17223) |
 | 2019-11-06 | Siergiej_Molotov | [testoviron477](https://mrucznik-rp.pl/user/18756-testoviron477/) | Nagminne łamanie LKIZ | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17232) |
 | 2019-11-07 | Koji_Katahiro | [Goldszron](https://mrucznik-rp.pl/user/120-goldszron/) | Nagminne łamanie LKIZ | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17236) |
-
+| 2019-11-17 | Michael_Hoover | [MichaelHoover](https://mrucznik-rp.pl/user/22287-michaelhoover/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/17282) |
