@@ -111,4 +111,7 @@
 | 2019-11-17 | Michael_Hoover | [MichaelHoover](https://mrucznik-rp.pl/user/22287-michaelhoover/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/17282) |
 | 2019-11-19 | Jahseh_Shmurda | [Sowson](https://mrucznik-rp.pl/user/6676-sowson/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17295) |
 | 2019-11-21 | Lavernus_Derenville | [kvbuś](https://mrucznik-rp.pl/user/19290-kvbu%C5%9B/) | DM | 6 miesięcy | [ODWOŁANIE](https://mrucznik-rp.pl/topic/89301-ks-%C5%BAle-rozpatrzona-skarga/) |
+| 2019-11-23 | Bart_Hawkins | [Pan Hawkins](https://mrucznik-rp.pl/user/156-pan-hawkins/) | Nagminne łamanie LKIZ | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17308) |
 | 2019-11-23 | Wieslaw_Padlina | [_Wiesiek_](https://mrucznik-rp.pl/user/5615-wiesiek/) | BE+Nagminne łamanie LKIZ | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17299) |
+
+
