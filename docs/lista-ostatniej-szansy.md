@@ -44,7 +44,7 @@
 | 2019-03-06 | Kendall_Gomes | [Casella](https://mrucznik-rp.pl/user/9605-casella/) | Kradzież sejfu | 12 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/14989) |
 | 2019-06-08 | Lewis_Shane | [młody okrutnik](https://mrucznik-rp.pl/user/15960-m%C5%82ody-okrutnik/) | Próba sprzedaży majątku i liczne BE | - | [APELACJA](https://mrucznik-rp.pl/apelacje/15127) |
 | 2019-06-08 | Stanislaw_Szkodnik | [Stanek](https://mrucznik-rp.pl/user/10032-stanek/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/15327) |
-| 2019-06-08 | Mikolai_Maciaszek | [miszor](https://mrucznik-rp.pl/user/6835-miszor/) | Ciągłe łamanie LKiZ | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16270) |
+| 2019-06-08/2019-12-04 | Mikolai_Maciaszek | [miszor](https://mrucznik-rp.pl/user/6835-miszor/) | Ciągłe łamanie LKiZ | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16270) / [ODWOŁANIE](https://mrucznik-rp.pl/topic/89491-ksodwolanieapelacja-mikolai-maciaszek/#entry967939) |
 | 2019-06-08 | John_McTravis | [michal kozak](https://mrucznik-rp.pl/user/10957-michal-kozak/) | Liczne BE | - | [APELACJA](https://mrucznik-rp.pl/apelacje/karta/15390) |
 | 2019-06-08 | Sebastian_Castellano | [DawidXXL](https://mrucznik-rp.pl/user/12645-dawidxxl/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/15500) |
 | 2019-06-08 | Max_Cole | [Straszny Max Cole](https://mrucznik-rp.pl/user/9390-straszny-max-cole/) | Czitowanie i Ekstremalny DM | - | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/15565) |
@@ -114,3 +114,5 @@
 | 2019-11-23 | Bart_Hawkins | [Pan Hawkins](https://mrucznik-rp.pl/user/156-pan-hawkins/) | Nagminne łamanie LKIZ | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17308) |
 | 2019-11-23 | Wieslaw_Padlina | [_Wiesiek_](https://mrucznik-rp.pl/user/5615-wiesiek/) | BE+Nagminne łamanie LKIZ | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17299) |
 | 2019-11-30 | Jacob_Gucci | [MrozikK](https://mrucznik-rp.pl/user/322-mrozikk/) | BE | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17326) |
+| 2019-12-11 | Jason_Shawn/Zahyn_Blahyn | [skyliner](https://mrucznik-rp.pl/user/16184-skyliner/) | Nagminne łamanie LKIZ | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/17388) |
+
