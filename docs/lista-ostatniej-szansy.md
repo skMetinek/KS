@@ -28,7 +28,7 @@
 | 2018-08-01 | Snoop_Tiiger | [RES3T](https://mrucznik-rp.pl/user/1187-res3t/) | BE | - | [APELACJA](https://mrucznik-rp.pl/apelacje/10920) |
 | 2018-08-01 | Thabit_Zafir | [Kerlin](https://mrucznik-rp.pl/user/11631-kerlin/) | Ekstremalny DM | - | [APELACJA](https://mrucznik-rp.pl/apelacje/11950) |
 | 2018-08-01 | Johnny_Black | [Szczerbatek_321](https://mrucznik-rp.pl/user/15913-szczerbatek-321/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/12705) |
-| 2018-08-01 | Sophia_Scott/Khali_Touta | [Khali](https://mrucznik-rp.pl/user/16189-khali/) | BE | - | [APELACJA](https://mrucznik-rp.pl/apelacje/12157) |
+| 2018-08-01/2019-12-13 | Sophia_Scott/Khali_Touta | [Khali](https://mrucznik-rp.pl/user/16189-khali/) | BE + Czitowanie | Dożywotnio | [APELACJA](https://mrucznik-rp.pl/apelacje/12157) [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/17313) |
 | 2018-08-01 | Sasha_Juvczenko | [Punisher007](https://mrucznik-rp.pl/user/17045-punisher007/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/12441) |
 | 2018-08-03 | Andre_Gonzales | [Plejter](https://mrucznik-rp.pl/user/15886-plejter/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/karta/12575) |
 | 2018-10-22 | Timothy_Hawkins | [res2cue](https://mrucznik-rp.pl/user/14346-res2cue/) | BE | - | [APELACJA](https://mrucznik-rp.pl/apelacje/11673) |
@@ -113,5 +113,10 @@
 | 2019-11-21 | Lavernus_Derenville | [kvbuś](https://mrucznik-rp.pl/user/19290-kvbu%C5%9B/) | DM | 6 miesięcy | [ODWOŁANIE](https://mrucznik-rp.pl/topic/89301-ks-%C5%BAle-rozpatrzona-skarga/) |
 | 2019-11-23 | Bart_Hawkins | [Pan Hawkins](https://mrucznik-rp.pl/user/156-pan-hawkins/) | Nagminne łamanie LKIZ | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17308) |
 | 2019-11-23 | Wieslaw_Padlina | [_Wiesiek_](https://mrucznik-rp.pl/user/5615-wiesiek/) | BE+Nagminne łamanie LKIZ | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17299) |
+| 2019-11-30 | Jacob_Gucci | [MrozikK](https://mrucznik-rp.pl/user/322-mrozikk/) | BE | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17326) |
 | 2019-12-11 | Jason_Shawn/Zahyn_Blahyn | [skyliner](https://mrucznik-rp.pl/user/16184-skyliner/) | Nagminne łamanie LKIZ | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/17388) |
-| 2019-12-30 | Magnus_Montoya | [artur paralotnia](https://mrucznik-rp.pl/user/10197-artur-paralotnia/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/17437) |
+| 2019-12-13 | Stanislaw_Szkodnik | [Stanek](https://mrucznik-rp.pl/user/10032-stanek/) | Nagminne łamanie LKIZ | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17373) |
+| 2019-12-20 | Sophia_Scott/Khali_Touta | [Khali](https://mrucznik-rp.pl/user/16189-khali/) | Nagminne łamanie LKIZ | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17407) |
+| 2019-12-21 | Sorun_Bouychau | [KOISES](https://mrucznik-rp.pl/user/10717-koises/) | BE + Sprzedaż konta | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17425) |
+| 2019-12-30 | Magnus_Montoya | [artur paralotnia](https://mrucznik-rp.pl/user/10197-artur-paralotnia/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/17437) 
+
