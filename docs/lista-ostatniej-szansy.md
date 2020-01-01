@@ -120,4 +120,5 @@
 | 2019-12-21 | Sorun_Bouychau | [KOISES](https://mrucznik-rp.pl/user/10717-koises/) | BE + Sprzedaż konta | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17425) |
 | 2019-12-30 | Magnus_Montoya | [artur paralotnia](https://mrucznik-rp.pl/user/10197-artur-paralotnia/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/17437) 
 | 2019-12-31 | Frank_Statham | [Kraffat](https://mrucznik-rp.pl/user/20174-kraffat/) | Nagminne łamanie LKIZ | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/topic/90581-ban-frank-statham/) |
+| 2019-12-31 | Patrick_Shaw | [patrik szał](https://mrucznik-rp.pl/user/3656-patrik-sza%C5%82/) | Nagminne łamanie LKIZ | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/17473) |
 
