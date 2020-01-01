@@ -28,7 +28,7 @@
 | 2018-08-01 | Snoop_Tiiger | [RES3T](https://mrucznik-rp.pl/user/1187-res3t/) | BE | - | [APELACJA](https://mrucznik-rp.pl/apelacje/10920) |
 | 2018-08-01 | Thabit_Zafir | [Kerlin](https://mrucznik-rp.pl/user/11631-kerlin/) | Ekstremalny DM | - | [APELACJA](https://mrucznik-rp.pl/apelacje/11950) |
 | 2018-08-01 | Johnny_Black | [Szczerbatek_321](https://mrucznik-rp.pl/user/15913-szczerbatek-321/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/12705) |
-| 2018-08-01 | Sophia_Scott/Khali_Touta | [Khali](https://mrucznik-rp.pl/user/16189-khali/) | BE | - | [APELACJA](https://mrucznik-rp.pl/apelacje/12157) |
+| 2018-08-01/2019-12-13 | Sophia_Scott/Khali_Touta | [Khali](https://mrucznik-rp.pl/user/16189-khali/) | BE + Czitowanie | Dożywotnio | [APELACJA](https://mrucznik-rp.pl/apelacje/12157) [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/17313) |
 | 2018-08-01 | Sasha_Juvczenko | [Punisher007](https://mrucznik-rp.pl/user/17045-punisher007/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/12441) |
 | 2018-08-03 | Andre_Gonzales | [Plejter](https://mrucznik-rp.pl/user/15886-plejter/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/karta/12575) |
 | 2018-10-22 | Timothy_Hawkins | [res2cue](https://mrucznik-rp.pl/user/14346-res2cue/) | BE | - | [APELACJA](https://mrucznik-rp.pl/apelacje/11673) |
