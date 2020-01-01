@@ -118,4 +118,5 @@
 | 2019-12-13 | Stanislaw_Szkodnik | [Stanek](https://mrucznik-rp.pl/user/10032-stanek/) | Nagminne łamanie LKIZ | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17373) |
 | 2019-12-20 | Sophia_Scott/Khali_Touta | [Khali](https://mrucznik-rp.pl/user/16189-khali/) | Nagminne łamanie LKIZ | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17407) |
 | 2019-12-21 | Sorun_Bouychau | [KOISES](https://mrucznik-rp.pl/user/10717-koises/) | BE + Sprzedaż konta | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17425) |
+| 2019-12-30 | Magnus_Montoya | [artur paralotnia](https://mrucznik-rp.pl/user/10197-artur-paralotnia/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/17437) 
 
