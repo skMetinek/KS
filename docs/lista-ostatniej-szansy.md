@@ -116,4 +116,5 @@
 | 2019-11-30 | Jacob_Gucci | [MrozikK](https://mrucznik-rp.pl/user/322-mrozikk/) | BE | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17326) |
 | 2019-12-11 | Jason_Shawn/Zahyn_Blahyn | [skyliner](https://mrucznik-rp.pl/user/16184-skyliner/) | Nagminne łamanie LKIZ | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/17388) |
 | 2019-12-13 | Stanislaw_Szkodnik | [Stanek](https://mrucznik-rp.pl/user/10032-stanek/) | Nagminne łamanie LKIZ | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17373) |
+| 2019-12-20 | Sophia_Scott/Khali_Touta | [Khali](https://mrucznik-rp.pl/user/16189-khali/) | Nagminne łamanie LKIZ | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17407) |
 
