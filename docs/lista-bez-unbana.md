@@ -1,6 +1,6 @@
 # Lista bez unbana
 
-Na liście tej znajdują się osoby, które nie otrzymają nigdy unbana na forum ani na serwerze.
+Na liście tej znajdują się osoby, które nie otrzymają nigdy unbana na forum ani na serwerze a także nie będą mieli dostępu do jakiejkolwiek z 'oficjalnych' mrucznikowych (tj. serwer, forum, discord, TeamSpeak)
 
 Jeśli masz podejrzenia, że osoba z tej listy gra na serwerze zgłoś to jak najszybciej do Komisji Sprawiedliwości.
 
