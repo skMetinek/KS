@@ -121,4 +121,4 @@
 | 2019-12-30 | Magnus_Montoya | [artur paralotnia](https://mrucznik-rp.pl/user/10197-artur-paralotnia/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/17437) 
 | 2019-12-31 | Frank_Statham | [Kraffat](https://mrucznik-rp.pl/user/20174-kraffat/) | Nagminne łamanie LKIZ | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/topic/90581-ban-frank-statham/) |
 | 2019-12-31 | Patrick_Shaw | [patrik szał](https://mrucznik-rp.pl/user/3656-patrik-sza%C5%82/) | Nagminne łamanie LKIZ | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/17473) |
-
+| 2020-01-10 | Sergio_Vonpadre | [KozEz](https://mrucznik-rp.pl/user/20644-kozez/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/17500) |
