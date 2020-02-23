@@ -122,4 +122,6 @@
 | 2019-12-31 | Frank_Statham | [Kraffat](https://mrucznik-rp.pl/user/20174-kraffat/) | Nagminne łamanie LKIZ | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/topic/90581-ban-frank-statham/) |
 | 2019-12-31 | Patrick_Shaw | [patrik szał](https://mrucznik-rp.pl/user/3656-patrik-sza%C5%82/) | Nagminne łamanie LKIZ | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/17473) |
 | 2020-01-10 | Sergio_Vonpadre | [KozEz](https://mrucznik-rp.pl/user/20644-kozez/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/17500) |
+| 2020-01-12 | Shin_Carter | [Young Policja](https://mrucznik-rp.pl/user/18579-young-policja/) | Nagminne łamanie LKIZ | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/17491) |
 | 2020-01-12 | Mark_Tomeso | [Kapeć](https://mrucznik-rp.pl/user/22071-kape%C4%87/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17520) |
+
