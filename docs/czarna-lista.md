@@ -22,3 +22,4 @@ Osoby z listy ostatniej szansy przy otrzymaniu bana z tym samym powodem (lub dow
 | 2019-08-08 | Lewis_Shane | [młody okrutnik](https://mrucznik-rp.pl/user/15960-m%C5%82ody-okrutnik/) | 
 | 2019-09-01 | Paul_Brain/Witold_Mopsak/Artyom_Kurylowitz/Tom_Betoniarka | [rapppa](https://mrucznik-rp.pl/user/15814-rapppa/) |
 | 2019-11-24 | Zbyszek_Paprotka/William_Gilles | [0700](https://mrucznik-rp.pl/user/8499-0700/) |
+| 2019-12-27 | Shin_Johnson/Nick_Lindsey | [Shinisko](https://mrucznik-rp.pl/user/22095-shinisko/)/[LindseY](https://mrucznik-rp.pl/user/22118-lindsey/) |
