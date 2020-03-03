@@ -109,7 +109,7 @@
 | 2020-01-10 | Sergio_Vonpadre | [KozEz](https://mrucznik-rp.pl/user/20644-kozez/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/17500) |
 | 2020-01-12 | Shin_Carter | [Young Policja](https://mrucznik-rp.pl/user/18579-young-policja/) | Nagminne łamanie LKIZ | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/17491) |
 | 2020-01-12 | Mark_Tomeso | [Kapeć](https://mrucznik-rp.pl/user/22071-kape%C4%87/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17520) |
-| 2020-02-02 | Nicola_Nawrot | - | Czitowanie | 6 miesięcy | [APELACJA].(https://mrucznik-rp.pl/topic/91814-ban-nicola-nawrot/) |
+| 2020-02-02 | Nicola_Nawrot | - | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/topic/91814-ban-nicola-nawrot/) |
 | 2020-02-02 | Liya_Johnson | [Ptysiuuu](https://mrucznik-rp.pl/user/22633-ptysiuuu/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17621)
 | 2020-02-22 | Rezonov_Sidorv | [NefJu](https://mrucznik-rp.pl/user/13914-nefju/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17702)
 | 2020-02-29 | Javier_Shelygin | [dllGuy](https://mrucznik-rp.pl/user/17358-dllguy/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/17729)
