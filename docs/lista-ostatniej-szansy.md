@@ -75,7 +75,6 @@
 | 2019-08-22 | Jack_Mason | [Abstynent](https://mrucznik-rp.pl/user/14809-abstynent/) | BE | - | [APELACJA](https://mrucznik-rp.pl/topic/85184-ban-jack-mason-abstynent) |
 | 2019-09-04 | Sophie_Diaz | [Perfidny](https://mrucznik-rp.pl/user/17662-perfidny/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16843) |
 | 2019-09-11 | Matthew_Salvatore | [Remover^](https://mrucznik-rp.pl/user/8387-remover/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16918) |
-| 2019-09-11 | Krzysztof_Corleone | [dras](https://mrucznik-rp.pl/user/19430-dras/) | BE | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/16930) |
 | 2019-09-18 | Gustavo_Black | [Sparky](https://mrucznik-rp.pl/user/21710-sparky/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/16956) |
 | 2019-09-18 | Matthew_McQueen | [SaNeK](https://mrucznik-rp.pl/user/17759-sanek/) | BE | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16959) |
 | 2019-09-29 | Gustavo_Carbone | [CarboneG](https://mrucznik-rp.pl/user/22110-carboneg/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17018) |
