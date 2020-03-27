@@ -75,7 +75,6 @@
 | 2019-08-22 | Jack_Mason | [Abstynent](https://mrucznik-rp.pl/user/14809-abstynent/) | BE | - | [APELACJA](https://mrucznik-rp.pl/topic/85184-ban-jack-mason-abstynent) |
 | 2019-09-04 | Sophie_Diaz | [Perfidny](https://mrucznik-rp.pl/user/17662-perfidny/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16843) |
 | 2019-09-11 | Matthew_Salvatore | [Remover^](https://mrucznik-rp.pl/user/8387-remover/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16918) |
-| 2019-09-18 | Gustavo_Black | [Sparky](https://mrucznik-rp.pl/user/21710-sparky/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/16956) |
 | 2019-09-18 | Matthew_McQueen | [SaNeK](https://mrucznik-rp.pl/user/17759-sanek/) | BE | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16959) |
 | 2019-09-29 | Gustavo_Carbone | [CarboneG](https://mrucznik-rp.pl/user/22110-carboneg/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17018) |
 | 2019-10-03 | Emily_Fallser | [PanMielu1100](https://mrucznik-rp.pl/user/20554-panmielu1100/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17053) |
@@ -98,7 +97,6 @@
 | 2019-11-23 | Bart_Hawkins | [Pan Hawkins](https://mrucznik-rp.pl/user/156-pan-hawkins/) | Nagminne łamanie LKIZ | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17308) |
 | 2019-11-23 | Wieslaw_Padlina | [_Wiesiek_](https://mrucznik-rp.pl/user/5615-wiesiek/) | BE+Nagminne łamanie LKIZ | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17299) |
 | 2019-11-30 | Jacob_Gucci | [MrozikK](https://mrucznik-rp.pl/user/322-mrozikk/) | BE | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17326) |
-| 2019-12-11 | Jason_Shawn/Zahyn_Blahyn | [skyliner](https://mrucznik-rp.pl/user/16184-skyliner/) | Nagminne łamanie LKIZ | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/17388) |
 | 2019-12-13 | Stanislaw_Szkodnik | [Stanek](https://mrucznik-rp.pl/user/10032-stanek/) | Nagminne łamanie LKIZ | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17373) |
 | 2019-12-20 | Sophia_Scott/Khali_Touta | [Khali](https://mrucznik-rp.pl/user/16189-khali/) | Nagminne łamanie LKIZ | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17407) |
 | 2019-12-21 | Sorun_Bouychau | [KOISES](https://mrucznik-rp.pl/user/10717-koises/) | BE + Sprzedaż konta | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17425) |
@@ -109,12 +107,12 @@
 | 2020-01-12 | Shin_Carter | [Young Policja](https://mrucznik-rp.pl/user/18579-young-policja/) | Nagminne łamanie LKIZ | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/17491) |
 | 2020-01-12 | Mark_Tomeso | [Kapeć](https://mrucznik-rp.pl/user/22071-kape%C4%87/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17520) |
 | 2020-02-02 | Nicola_Nawrot | - | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/topic/91814-ban-nicola-nawrot/) |
-| 2020-02-02 | Liya_Johnson | [Ptysiuuu](https://mrucznik-rp.pl/user/22633-ptysiuuu/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17621)
-| 2020-02-22 | Rezonov_Sidorv | [NefJu](https://mrucznik-rp.pl/user/13914-nefju/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17702)
-| 2020-02-29 | Javier_Shelygin | [dllGuy](https://mrucznik-rp.pl/user/17358-dllguy/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/17729)
-| 2020-02-29 | Danny_McCrawford | [onaclov](https://mrucznik-rp.pl/user/19909-onaclov/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17743)
-| 2020-03-27 | Dave_Gucci | [keykey](https://mrucznik-rp.pl/user/8574-keykey/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17961)
-| 2020-02-27 | John_Bullock | [kubixwert](https://mrucznik-rp.pl/user/22759-kubixwert/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17948)
-| 2020-03-27 | Derrick_Weed | [Dravson](https://mrucznik-rp.pl/user/1503-dravson/) | Oszustwo w stratach | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17874)
-| 2020-03-27 | Armand_Wright | [YoungSid](https://mrucznik-rp.pl/user/19470-youngsid/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17954)
-| 2020-03-27 | Luis_Fonter | [skKrzeneQ](https://mrucznik-rp.pl/user/15029-skkrzeneq/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17955)
+| 2020-02-02 | Liya_Johnson | [Ptysiuuu](https://mrucznik-rp.pl/user/22633-ptysiuuu/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17621) |
+| 2020-02-22 | Rezonov_Sidorv | [NefJu](https://mrucznik-rp.pl/user/13914-nefju/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17702) |
+| 2020-02-29 | Javier_Shelygin | [dllGuy](https://mrucznik-rp.pl/user/17358-dllguy/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/17729) |
+| 2020-02-29 | Danny_McCrawford | [onaclov](https://mrucznik-rp.pl/user/19909-onaclov/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17743) |
+| 2020-03-27 | Dave_Gucci | [keykey](https://mrucznik-rp.pl/user/8574-keykey/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17961)|
+| 2020-03-27 | John_Bullock | [kubixwert](https://mrucznik-rp.pl/user/22759-kubixwert/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17948) |
+| 2020-03-27 | Derrick_Weed | [Dravson](https://mrucznik-rp.pl/user/1503-dravson/) | Oszustwo w stratach | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17874) |
+| 2020-03-27 | Armand_Wright | [YoungSid](https://mrucznik-rp.pl/user/19470-youngsid/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17954) |
+| 2020-03-27 | Luis_Fonter | [skKrzeneQ](https://mrucznik-rp.pl/user/15029-skkrzeneq/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17955) |
