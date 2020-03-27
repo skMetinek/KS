@@ -116,3 +116,4 @@
 | 2020-03-27 | Dave_Gucci | [keykey](https://mrucznik-rp.pl/user/8574-keykey/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17961)
 | 2020-02-27 | John_Bullock | [kubixwert](https://mrucznik-rp.pl/user/22759-kubixwert/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17948)
 | 2020-03-27 | Derrick_Weed | [Dravson](https://mrucznik-rp.pl/user/1503-dravson/) | Oszustwo w stratach | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17874)
+| 2020-03-27 | Armand_Wright | [YoungSid](https://mrucznik-rp.pl/user/19470-youngsid/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17954)
