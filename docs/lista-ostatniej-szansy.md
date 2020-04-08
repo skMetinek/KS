@@ -116,7 +116,7 @@
 | 2020-03-27 | Derrick_Weed | [Dravson](https://mrucznik-rp.pl/user/1503-dravson/) | Oszustwo w stratach | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17874) |
 | 2020-03-27 | Armand_Wright | [YoungSid](https://mrucznik-rp.pl/user/19470-youngsid/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17954) |
 | 2020-03-27 | Luis_Fonter | [skKrzeneQ](https://mrucznik-rp.pl/user/15029-skkrzeneq/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17955) |
-| 01-04-2020 | Scott_Avanger | [duck1one](https://mrucznik-rp.pl/user/16005-duck1one/) | Czitowanie | 12 miesięcy | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/17952) |
+| 01-04-2020 | Scott_Avanger | [duck1one](https://mrucznik-rp.pl/user/16005-duck1one/) | - | 12 miesięcy | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/17952) |
 | 02-04-2020 | Karol_Munich | [nigeryjskinigger](https://mrucznik-rp.pl/user/23044-nigeryjskinigger/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/18053) |
 | 02-04-2020 | Kenneth_Cunninghan | [Reivax](https://mrucznik-rp.pl/user/16606-reivax/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/17994) |
 | 03-04-2020 | Jeremiash_Speeder | [wrrryn](https://mrucznik-rp.pl/user/9009-wrrryn/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/18038) |
