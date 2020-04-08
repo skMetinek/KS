@@ -11,9 +11,7 @@ Osoby z listy ostatniej szansy przy otrzymaniu bana z tym samym powodem (lub dow
 | 2018-08-01 | Leroy_Acuff -> Philip_Tolmache | [gandalf](https://mrucznik-rp.pl/user/3465-gandalf/) |
 | 2018-08-01 | Lonnie_Portis | [Oceanik](https://mrucznik-rp.pl/user/12205-oceanik/) |
 | 2018-08-01 | Paco_Munez | [Dawid Znakomity](https://mrucznik-rp.pl/user/7251-dawid-znakomity/) |
-| 2018-08-01 | Racoine_Wright -> Pharrell_Maisonneuve | [frachty g star](https://mrucznik-rp.pl/user/1119-frachty-g-star/) |
 | 2018-08-01 | Tytus_Ramsey | [theodor](https://mrucznik-rp.pl/user/4593-theodor/) |
-| 2018-08-01 | Tony_Wick | [typ](https://mrucznik-rp.pl/user/15778-typ/) |
 | 2018-10-10 | Lucas_Nidryt | [Kindro](https://mrucznik-rp.pl/user/14547-kindro/) |
 | 2019-05-06 | Nelly_Price | [Nataly2000](https://mrucznik-rp.pl/user/16050-nataly2000/) |
 | 2019-05-06 | Sasha_Juvczenko/Norbert_Liszka/Janusz_Kruszwil/Ivan_Juvczenko | [Punisher007](https://mrucznik-rp.pl/user/17045-punisher007/) |
@@ -21,3 +19,9 @@ Osoby z listy ostatniej szansy przy otrzymaniu bana z tym samym powodem (lub dow
 | 2019-05-07 | Seiko_Hanari | [011](https://mrucznik-rp.pl/user/8216-011/) |
 | 2019-06-08 | Patrick_Migle | [migiell](https://mrucznik-rp.pl/user/13646-migiell/) |
 | 2019-06-27 | Jack_Winslet | [neq](https://mrucznik-rp.pl/user/3514-neq/) |
+| 2019-08-08 | Lewis_Shane | [młody okrutnik](https://mrucznik-rp.pl/user/15960-m%C5%82ody-okrutnik/) | 
+| 2019-09-01 | Paul_Brain/Witold_Mopsak/Artyom_Kurylowitz/Tom_Betoniarka | [rapppa](https://mrucznik-rp.pl/user/15814-rapppa/) |
+| 2019-11-24 | Zbyszek_Paprotka/William_Gilles | [0700](https://mrucznik-rp.pl/user/8499-0700/) |
+| 2019-12-27 | Shin_Johnson/Nick_Lindsey | [Shinisko](https://mrucznik-rp.pl/user/22095-shinisko/)/[LindseY](https://mrucznik-rp.pl/user/22118-lindsey/) |
+|2020-03-05 | Cole_Sproule | [Davviseq69](https://mrucznik-rp.pl/user/15494-davviseq69/)|
+|2020-03-31 | Khali_Touta | [Khali](https://mrucznik-rp.pl/user/16189-khali/) |
