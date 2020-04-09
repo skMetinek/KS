@@ -23,5 +23,6 @@ Osoby z listy ostatniej szansy przy otrzymaniu bana z tym samym powodem (lub dow
 | 2019-09-01 | Paul_Brain/Witold_Mopsak/Artyom_Kurylowitz/Tom_Betoniarka | [rapppa](https://mrucznik-rp.pl/user/15814-rapppa/) |
 | 2019-11-24 | Zbyszek_Paprotka/William_Gilles | [0700](https://mrucznik-rp.pl/user/8499-0700/) |
 | 2019-12-27 | Shin_Johnson/Nick_Lindsey | [Shinisko](https://mrucznik-rp.pl/user/22095-shinisko/)/[LindseY](https://mrucznik-rp.pl/user/22118-lindsey/) |
-|2020-03-05 | Cole_Sproule | [Davviseq69](https://mrucznik-rp.pl/user/15494-davviseq69/)|
-|2020-03-31 | Khali_Touta | [Khali](https://mrucznik-rp.pl/user/16189-khali/) |
+| 2020-03-05 | Cole_Sproule | [Davviseq69](https://mrucznik-rp.pl/user/15494-davviseq69/)|
+| 2020-03-31 | Khali_Touta | [Khali](https://mrucznik-rp.pl/user/16189-khali/) |
+| 2020-04-09 | Scott_Avanger | [duck1one](https://mrucznik-rp.pl/user/16005-duck1one/) |
