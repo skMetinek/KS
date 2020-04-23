@@ -123,3 +123,4 @@
 | 03-04-2020 | Edgardo_Balderas | [droniarz](https://mrucznik-rp.pl/user/22848-droniarz/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/18052) |
 | 12-04-2020 | Logan_Walker | [seba033](https://mrucznik-rp.pl/user/23224-seba033/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/18158) | 
 | 13-04-2020 | Bishop_Dunleavy | [PiTu](https://mrucznik-rp.pl/user/567-pitu/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/18171)
+| 23-04-2020 | Michael_Vanhook | [Lil Miszel](https://mrucznik-rp.pl/user/21810-lil-miszel/) | Oszustwo OOC | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/18336)
