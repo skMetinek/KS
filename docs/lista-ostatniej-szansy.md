@@ -126,3 +126,5 @@
 | 23-04-2020 | Michael_Vanhook | [Lil Miszel](https://mrucznik-rp.pl/user/21810-lil-miszel/) | Oszustwo OOC | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/18336)
 | 01-05-2020 | Charlotte_Harvey | [Verumix](https://mrucznik-rp.pl/user/22664-verumix/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/18338)
 | 01-05-2020 | Edward_Prokurator | [Prokurator](https://mrucznik-rp.pl/user/23243-prokurator/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/18343)
+| 01-05-2020 | Ermengarde_Traebert | [M1a](https://mrucznik-rp.pl/user/21221-m1a/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/18360)
+
