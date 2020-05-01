@@ -128,4 +128,4 @@
 | 01-05-2020 | Edward_Prokurator | [Prokurator](https://mrucznik-rp.pl/user/23243-prokurator/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/18343)
 | 01-05-2020 | Ermengarde_Traebert | [M1a](https://mrucznik-rp.pl/user/21221-m1a/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/18360)
 | 19-01-2020 | Ross_Walker | [skSzitsu](https://mrucznik-rp.pl/user/19483-skszitsu/) | Czitowanie | 6 miesięcy | [WNIOSEK](https://mrucznik-rp.pl/topic/16199-ks-wnioski-do-komisji-sprawiedliwo%C5%9Bci/page-42?p=984975#entry984975)
-
+| 03-02-2020 | Amelia_Wright | [Daniocha](https://mrucznik-rp.pl/user/17200-daniocha/) | Czitowanie | 6 miesięcy | [WNIOSEK](https://mrucznik-rp.pl/topic/16199-ks-wnioski-do-komisji-sprawiedliwo%C5%9Bci/page-42?p=986413#entry986413)
