@@ -50,7 +50,6 @@
 | 2019-06-08 | Max_Cole | [Straszny Max Cole](https://mrucznik-rp.pl/user/9390-straszny-max-cole/) | Czitowanie i Ekstremalny DM | - | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/15565) |
 | 2019-06-08 | Nicolle_Shapiro | [Lalunia](https://mrucznik-rp.pl/user/17261-lalunia/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/15675) |
 | 2019-06-08 | Jeffrey_McKean | [rappa](https://mrucznik-rp.pl/user/16099-rappa/) | Ciągłe łamanie LKiZ | - | [WNIOSEK](https://mrucznik-rp.pl/topic/16199-wnioski-do-komisji-sprawiedliwo%C5%9Bci/page-38?p=902338#entry902338) |
-| 2019-06-08 | Paulo_Lawson | [Sq0liX](https://mrucznik-rp.pl/user/13994-sq0lix/) | Czitowanie i BE | - | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/15981) |
 | 2019-06-08 | Yuki_Bushido | [Shakeer](https://mrucznik-rp.pl/user/8563-shakeer/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16000) |
 | 2019-06-08 | Neal_Schultz | [skT1](https://mrucznik-rp.pl/user/18439-skt1/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/15992) |
 | 2019-06-08 | Edek_Kluch | [123](https://mrucznik-rp.pl/user/9238-123/) | Liczne BE | - | [WNIOSEK](https://mrucznik-rp.pl/topic/16199-wnioski-do-komisji-sprawiedliwo%C5%9Bci/page-38?p=908718#entry908718) |
@@ -124,3 +123,8 @@
 | 12-04-2020 | Logan_Walker | [seba033](https://mrucznik-rp.pl/user/23224-seba033/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/18158) | 
 | 13-04-2020 | Bishop_Dunleavy | [PiTu](https://mrucznik-rp.pl/user/567-pitu/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/18171)
 | 23-04-2020 | Michael_Vanhook | [Lil Miszel](https://mrucznik-rp.pl/user/21810-lil-miszel/) | Oszustwo OOC | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/18336)
+| 01-05-2020 | Charlotte_Harvey | [Verumix](https://mrucznik-rp.pl/user/22664-verumix/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/18338)
+| 01-05-2020 | Edward_Prokurator | [Prokurator](https://mrucznik-rp.pl/user/23243-prokurator/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/18343)
+| 01-05-2020 | Ermengarde_Traebert | [M1a](https://mrucznik-rp.pl/user/21221-m1a/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/18360)
+| 19-01-2020 | Ross_Walker | [skSzitsu](https://mrucznik-rp.pl/user/19483-skszitsu/) | Czitowanie | 6 miesięcy | [WNIOSEK](https://mrucznik-rp.pl/topic/16199-ks-wnioski-do-komisji-sprawiedliwo%C5%9Bci/page-42?p=984975#entry984975)
+| 03-02-2020 | Amelia_Wright | [Daniocha](https://mrucznik-rp.pl/user/17200-daniocha/) | Czitowanie | 6 miesięcy | [WNIOSEK](https://mrucznik-rp.pl/topic/16199-ks-wnioski-do-komisji-sprawiedliwo%C5%9Bci/page-42?p=986413#entry986413)
