@@ -50,7 +50,6 @@
 | 2019-06-08 | Max_Cole | [Straszny Max Cole](https://mrucznik-rp.pl/user/9390-straszny-max-cole/) | Czitowanie i Ekstremalny DM | - | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/15565) |
 | 2019-06-08 | Nicolle_Shapiro | [Lalunia](https://mrucznik-rp.pl/user/17261-lalunia/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/15675) |
 | 2019-06-08 | Jeffrey_McKean | [rappa](https://mrucznik-rp.pl/user/16099-rappa/) | Ciągłe łamanie LKiZ | - | [WNIOSEK](https://mrucznik-rp.pl/topic/16199-wnioski-do-komisji-sprawiedliwo%C5%9Bci/page-38?p=902338#entry902338) |
-| 2019-06-08 | Paulo_Lawson | [Sq0liX](https://mrucznik-rp.pl/user/13994-sq0lix/) | Czitowanie i BE | - | [APELACJA](https://mrucznik-rp.pl/index.php?/apelacje/15981) |
 | 2019-06-08 | Yuki_Bushido | [Shakeer](https://mrucznik-rp.pl/user/8563-shakeer/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/16000) |
 | 2019-06-08 | Neal_Schultz | [skT1](https://mrucznik-rp.pl/user/18439-skt1/) | Czitowanie | - | [APELACJA](https://mrucznik-rp.pl/apelacje/15992) |
 | 2019-06-08 | Edek_Kluch | [123](https://mrucznik-rp.pl/user/9238-123/) | Liczne BE | - | [WNIOSEK](https://mrucznik-rp.pl/topic/16199-wnioski-do-komisji-sprawiedliwo%C5%9Bci/page-38?p=908718#entry908718) |
