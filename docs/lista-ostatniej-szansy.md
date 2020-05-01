@@ -125,4 +125,4 @@
 | 13-04-2020 | Bishop_Dunleavy | [PiTu](https://mrucznik-rp.pl/user/567-pitu/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/18171)
 | 23-04-2020 | Michael_Vanhook | [Lil Miszel](https://mrucznik-rp.pl/user/21810-lil-miszel/) | Oszustwo OOC | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/18336)
 | 01-05-2020 | Charlotte_Harvey | [Verumix](https://mrucznik-rp.pl/user/22664-verumix/) | Czitowanie | 6 miesięcy | [APELACJA](https://mrucznik-rp.pl/apelacje/18338)
-
+| 01-05-2020 | Edward_Prokurator | [Prokurator](https://mrucznik-rp.pl/user/23243-prokurator/) | Czitowanie | 3 miesiące | [APELACJA](https://mrucznik-rp.pl/apelacje/18343)
